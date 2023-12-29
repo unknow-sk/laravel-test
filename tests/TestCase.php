@@ -2,7 +2,6 @@
 
 namespace UnknowSk\Test\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 use UnknowSk\Test\TestServiceProvider;
 

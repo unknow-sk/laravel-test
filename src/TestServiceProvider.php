@@ -4,7 +4,6 @@ namespace UnknowSk\Test;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use UnknowSk\Test\Commands\TestCommand;
 
 class TestServiceProvider extends PackageServiceProvider
 {
